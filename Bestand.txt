@@ -1,0 +1,11 @@
+4535;C: Programmieren von Anfang an;Helmut Erlenkötter;Rowohlt Taschenbuch Verlag;1999;3;00001;07.07.2017;06.08.2017;
+0123;Curtain Call;Eminem;Shady Records;2005;1;00001;10.01.2013;11.01.2016;
+4655;Curtain Call;Eminem;Shady Records;2005;1;00000;00.00.0000;00.00.0000;
+0436;Good Fellas;Martin Scorsese;Warner;1990;2;00002;12.11.2010;04.10.2011;
+5436;Good Fellas;Martin Scorsese;Warner;1990;2;00000;00.00.0000;00.00.0000;
+5435;Good Fellas;Martin Scorsese;Warner;1990;2;00000;00.00.0000;00.00.0000;
+0321;Harry Potter und der Stein der Weisen;J.K.Rowling;Scholastic-Verlag;1998;3;00000;00.00.0000;00.00.0000;
+1213;Harry Potter und der Stein der Weisen;J.K.Rowling;Scholastic-Verlag;1998;3;00000;00.00.0000;00.00.0000;
+1216;Harry Potter und der Stein der Weisen;J.K.Rowling;Scholastic-Verlag;1998;3;00000;00.00.0000;00.00.0000;
+0131;Matrix;Leo;sciverlag;1999;2;00003;10.01.2017;11.01.2017;
+2107;Weihnachtsoratorium;J.H.Bach;Signum Classics;1998;1;00000;00.00.0000;00.00.0000;
